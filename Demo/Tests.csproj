@@ -55,7 +55,11 @@
   <ItemGroup>
     <Compile Include="Assets\Tests\StringBuilderTest.cs" />
     <Compile Include="Assets\Tests\LocalValuePerformanceTest.cs" />
+    <Compile Include="Assets\Tests\CacheForIndex.cs" />
+    <Compile Include="Assets\Tests\ValueChecker.cs" />
+    <Compile Include="Assets\Tests\SortTest.cs" />
     <Compile Include="Assets\Tests\RefValuePerformanceTest.cs" />
+    <Compile Include="Assets\Tests\ArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Tests\Tests.asmdef" />
